@@ -46,8 +46,8 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => '@w
             ['label' => 'Πληρωμές', 'url' => ['/payments/index']],
             ['label' => 'Τύπος Κτήματος', 'url' => ['/estate-types/index']],
             ['label' => 'Τύπος Χρέωσης', 'url' => ['/charge-types/index']],
-            ['label' => 'Συνδρομές', 'url' => ['/debt/index']],
-            ['label' => 'Gii', 'url' => ['/gii']],
+            //['label' => 'Συνδρομές', 'url' => ['/debt/index']],
+            //['label' => 'Gii', 'url' => ['/gii']],
 
          /*   Yii::$app->user->isGuest
                 ? ['label' => 'Login', 'url' => ['/site/login']]
